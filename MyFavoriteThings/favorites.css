@@ -1,0 +1,26 @@
+/* 
+* Tatiana Mendez
+* Due Date
+* Pictures of My Favorite Things with Captions Describing Them
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+body {
+
+    
+}
+
+#Apollo {width:300px; height:225px;}
+
+#beach {width:300px; height:200px;}
+
+#flowerbouquet {width:300px; height:200px;}
+
+#chickennachos {width:300px; height:200px;}
+
+figure {float: right;}
